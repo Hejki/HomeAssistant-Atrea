@@ -5,5 +5,5 @@
   "dependencies": [],
   "codeowners": ["@JurajNyiri"],
   "requirements": ["pyatrea==0.7"],
-  "version": "5.0.1"
+  "version": "5.0.2"
 }

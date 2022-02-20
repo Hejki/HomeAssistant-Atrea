@@ -161,7 +161,7 @@ class AtreaDevice(ClimateEntity):
         return '{}'.format(self._prefixName)
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         attributes = {}
 
         attributes['outside_temp'] = self._outside_temp
